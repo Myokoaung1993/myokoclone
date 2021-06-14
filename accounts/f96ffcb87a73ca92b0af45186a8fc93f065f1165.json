@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "learned-pottery-316613",
+  "private_key_id": "f96ffcb87a73ca92b0af45186a8fc93f065f1165",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQCwvy/7NXTV3v2o\n8E6yGS712ZSYVii3IIeOhD5pYx0CX+RuHpg0sJdPJS2NRyfyTAC8oqJlr13hmoLd\nw6gZwGXu7Gf9n5CMSb4RM5ynQEb1S/ltCvIdm4jiLnYVpfsU6Pkm/G0ba0s4ts2O\nCkXKVmKKGtdmSS22IIGPy/Sc/jzgzD2JQl6T6LQ93trmsvlqiuM9DPtn1O9kbL91\nI/qfUQA9UQLkb/wW7O0fPOi13kY5L0wOerC6g2EHQbKLKvmZZX2hi++nZqp8vdgA\nR2p3GO0AcfHZ1QMx2FvbFCeliOdhOUYYhUfIF3reWF6G7pKvLbKbZRcKenaA0MqT\nr3OlMoaDAgMBAAECggEAC3N3klj2Rtz5pjZbguJqznbYT75VSPgMkEk1GfLX8E1y\nKUhGKDPAudn4x4xypBoUeiQ3TUs9U96E2AVTIMf8UqxyWFY8MTqd29NyNMvPTRkt\nAcmRwiVPiwfjkqd8SvCFI+d60inzZ6tAShGUT/Wk0LnIdtIK6h/VBRH7uSgnnZDC\nMc3qPPdeCkwyoymUEdAUKyd6vgRnBTplaoPdBs0I3uWRkJVaXPGImIIOrwqtkhKA\n9JYUWpLvrIL0jMZz5MxYHmtbqeCTOZPfzFcXacNJVonzUVPBQb7a2GrI47eookJh\nKmEXc4ch2eb6Vn6HBRehSBu3DlvrbVThrG4wUs5lAQKBgQDvk20CyfvO/Pq0B3xX\nUoigIFPFXsdnclg3h0p/xeM9E5a0lXU7NWt0a0ppkIRcNMwojhtTIi+X7cVe4s2o\nVt8GjFfTrHrVPDQgMLvp7Mo48k4fVq1J0eFHUw6a4n93L0FxlnXjD6ySxURgck3N\noxon+sPYVSuqhRBi/NdJNEzTQwKBgQC83RtqU4kcnyxyJ6vjIBQ69W8tvtMbFJo4\nSeYMWrDyjoJymFwg2RIzPnV/7HlZgx3ciETHykq6D1GTdoC6ky6BC5afGeWd5RGn\nZfrvybFGVZGP/lPSm2gIJ7KCXIHhbbd5Dz+jJUUUptXBsyTWrOV0smqM152NFWrZ\nlSoeFNkrwQKBgQC3DpLQ+rzpX+u/+6hKoMm8cHcR7GW46Wn2o+2MzAvh80HIIhs9\nbof4oLJvDvnT6pPEuTCvyQNMt2WEJxC1fAtV2Y6SMsx4elPp9NLg3wl1kc+Xqocm\nTLQx54jVWBPFYdpDjI/vO17Flu20NCK26dVmjvluJ0YCOUJYIJHvYYMCOQKBgAxc\n5OiG41jOSpiGZEgP14MsgcSa0zLYnGfG3po8bYzTK1LZCl7UFs7n7cUb862aWaAQ\nA4CYi1+2lP50KWUNMWQdIBT2GwPE9OziThTYPRR/kXG9kjsdFShDgPnrmEzrY7E3\nAFFrpSP+78soMOckljiXXUYu7w9HMaFglEs3zieBAoGAHmYdvd8vtvVANTapyaVX\nEDe72ImwMrphUltH7CycHArrWf0KBVooTYqmyQWykauzW36diNsJxr1YA3Hx1qrn\n6rk4Xz0FiPR/M11nFHv0zeC2J2kUGgGZFYS5/rmC5NfaXvmezYd8hg+iN0mOgwJ4\nZDMSrgnHqZy5ZP8BcCwibPc=\n-----END PRIVATE KEY-----\n",
+  "client_email": "mfc-i50crzwzg-fvxocvxp8k9q1kwj@learned-pottery-316613.iam.gserviceaccount.com",
+  "client_id": "109652927770066644081",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/mfc-i50crzwzg-fvxocvxp8k9q1kwj%40learned-pottery-316613.iam.gserviceaccount.com"
+}
